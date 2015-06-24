@@ -1,0 +1,73 @@
+﻿$axure.loadCurrentPage({
+  "url":"招聘求职.html",
+  "generationDate":new Date(1432258258239.73),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"9f9820339277466e929411d421583fd0",
+    "type":"Axure:Page",
+    "name":"招聘求职",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"5203fa787eba48f6a890e5c75f79462d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":50,
+              "y":80},
+            "size":{
+              "width":457,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2455c325bff34b3199bd4fdfb2702978",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":50,
+                  "y":80},
+                "size":{
+                  "width":457,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "5203fa787eba48f6a890e5c75f79462d":{
+      "scriptId":"u0"},
+    "2455c325bff34b3199bd4fdfb2702978":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,73 @@
+﻿$axure.loadCurrentPage({
+  "url":"送餐外卖.html",
+  "generationDate":new Date(1432258261870.94),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fe8debaa58774428b63260443092f131",
+    "type":"Axure:Page",
+    "name":"送餐外卖",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"93bdb0ab26da4768807ef1bda1a677e9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":220,
+              "y":202},
+            "size":{
+              "width":512,
+              "height":56}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"74289f4aeb79468eb49c0f827905423e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":220,
+                  "y":202},
+                "size":{
+                  "width":512,
+                  "height":56}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "93bdb0ab26da4768807ef1bda1a677e9":{
+      "scriptId":"u0"},
+    "74289f4aeb79468eb49c0f827905423e":{
+      "scriptId":"u1"}}});

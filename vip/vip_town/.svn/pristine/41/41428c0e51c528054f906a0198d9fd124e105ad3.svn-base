@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'vip_town' do
+pod 'AFNetworking', '~> 2.5.3'
+pod 'MJRefresh', '~> 1.4.6'
+end
+
+target 'vip_townTests' do
+
+end
+

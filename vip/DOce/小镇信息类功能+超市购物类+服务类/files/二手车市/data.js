@@ -1,0 +1,310 @@
+﻿$axure.loadCurrentPage({
+  "url":"二手车市.html",
+  "generationDate":new Date(1432258258948.77),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5e7ede93e06b4fe3b69ad27ad3afcdbb",
+    "type":"Axure:Page",
+    "name":"二手车市",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"5574edd89c8341e791578c594923cffd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":170,
+              "y":150},
+            "size":{
+              "width":49,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0a3fde84297f43caac3c8085bc3ca16b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":170,
+                  "y":150},
+                "size":{
+                  "width":49,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e224178518a646ef91cd718cefe79010",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":227,
+              "y":159},
+            "size":{
+              "width":200,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/二手市场/u2_line.png"}},
+{
+          "id":"467fee36d51c49e9942c6b08adb3aa3f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":450,
+              "y":150},
+            "size":{
+              "width":49,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f6a9a405a4934c23be157da42fd1ea63",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":450,
+                  "y":150},
+                "size":{
+                  "width":49,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"52532da6ce9f45f58e3d34da38c58bcc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":277,
+              "y":143},
+            "size":{
+              "width":40,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"863bb0e80fe74f538b18263e2b2105a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":277,
+                  "y":143},
+                "size":{
+                  "width":40,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"aada91ae6a244b4a96709046a427c6e5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":170,
+              "y":217},
+            "size":{
+              "width":49,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a577939a5757421ea46eaee2e6f49eea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":170,
+                  "y":217},
+                "size":{
+                  "width":49,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"478a09ae687f40f6b8a1da10609127aa",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":227,
+              "y":226},
+            "size":{
+              "width":200,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/二手市场/u2_line.png"}},
+{
+          "id":"c457bc12864e4ac38f3a28385704982a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":277,
+              "y":210},
+            "size":{
+              "width":40,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2984b7e73f004b7e9050a6ff3194ad99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":277,
+                  "y":210},
+                "size":{
+                  "width":40,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d3d60dd54f26420a9887cd2662185b31",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":450,
+              "y":217},
+            "size":{
+              "width":49,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8febf72996fb459d8d1e8424ebc92aba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":450,
+                  "y":217},
+                "size":{
+                  "width":49,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "5574edd89c8341e791578c594923cffd":{
+      "scriptId":"u0"},
+    "0a3fde84297f43caac3c8085bc3ca16b":{
+      "scriptId":"u1"},
+    "e224178518a646ef91cd718cefe79010":{
+      "scriptId":"u2"},
+    "467fee36d51c49e9942c6b08adb3aa3f":{
+      "scriptId":"u3"},
+    "f6a9a405a4934c23be157da42fd1ea63":{
+      "scriptId":"u4"},
+    "52532da6ce9f45f58e3d34da38c58bcc":{
+      "scriptId":"u5"},
+    "863bb0e80fe74f538b18263e2b2105a4":{
+      "scriptId":"u6"},
+    "aada91ae6a244b4a96709046a427c6e5":{
+      "scriptId":"u7"},
+    "a577939a5757421ea46eaee2e6f49eea":{
+      "scriptId":"u8"},
+    "478a09ae687f40f6b8a1da10609127aa":{
+      "scriptId":"u9"},
+    "c457bc12864e4ac38f3a28385704982a":{
+      "scriptId":"u10"},
+    "2984b7e73f004b7e9050a6ff3194ad99":{
+      "scriptId":"u11"},
+    "d3d60dd54f26420a9887cd2662185b31":{
+      "scriptId":"u12"},
+    "8febf72996fb459d8d1e8424ebc92aba":{
+      "scriptId":"u13"}}});

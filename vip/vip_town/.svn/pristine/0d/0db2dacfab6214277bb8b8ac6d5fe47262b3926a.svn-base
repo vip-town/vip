@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ShoppingViewController">
+            <connections>
+                <outlet property="goodListTableView" destination="TYK-eD-VF8" id="Kpg-ab-v58"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="TYK-eD-VF8">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="617"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="Ah5-26-A8u"/>
+                        <outlet property="delegate" destination="-1" id="fxg-yg-x8M"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="TYK-eD-VF8" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="UhK-rt-o3E"/>
+                <constraint firstAttribute="trailing" secondItem="TYK-eD-VF8" secondAttribute="trailing" id="Vid-gZ-1gy"/>
+                <constraint firstItem="TYK-eD-VF8" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="ejt-dz-mvr"/>
+                <constraint firstAttribute="bottom" secondItem="TYK-eD-VF8" secondAttribute="bottom" constant="-49" id="i4b-0e-A4Q"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="178" y="207"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,47 @@
+//
+//  VIP_townPrefixHeader.pch
+//  vip_town
+//
+//  Created by 王旭 on 15/5/19.
+//  Copyright (c) 2015年 vip. All rights reserved.
+//
+
+#ifndef vip_town_VIP_townPrefixHeader_pch
+#define vip_town_VIP_townPrefixHeader_pch
+
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+#import "VipHttpHeader.h"
+#import "vip_town.h"
+#import <UIKit/UIKit.h>
+#import "CurseNavigation.h"
+typedef void (^successBlock)(id responseObject,NSInteger httpTag);
+typedef void (^failureBlock)(NSError *error,NSInteger httpTag);
+#import "AFNHelp.h"
+#import "CustomTabBar.h"
+#import "UIView+UIView_Frame.h"
+#import "SeverDetialViewController.h"
+#import "CustomTabBarTool.h"
+
+/**
+ *  控制器
+ *
+ *  @param CName       控制器类
+ *  @param navInstance navi的名字
+ *
+ *  @return 带navi的控制器
+ */
+#define DEFINE_CONTROLLER(CName, navInstance) \
+ CurseNavigation *navInstance = nil; \
+do { \
+CName *temName = [[CName alloc] init];\
+navInstance = [[CurseNavigation alloc] initWithRootViewController:temName];\
+}while (0)
+#define KRGBA(r,g,b,a) [UIColor colorWithRed:(r)/255.f green:(g)/255.f blue:(b)/255.f alpha:(a)/1.f]
+
+#endif
+#endif

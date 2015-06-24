@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>872780A8-21A0-428C-AE60-45C347E56A96</string>
+	<key>IDESourceControlProjectName</key>
+	<string>vip_town</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7d5473f4-c5b5-4fd3-a06b-eaf8eef32273++4300</key>
+		<string>svn://123.57.66.108/viptown/IOS/vip_town</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>vip_town.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7d5473f4-c5b5-4fd3-a06b-eaf8eef32273++4300</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7d5473f4-c5b5-4fd3-a06b-eaf8eef32273++4300</key>
+		<string>svn://123.57.66.108/viptown</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://123.57.66.108/viptown/IOS/vip_town/vip_town.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7d5473f4-c5b5-4fd3-a06b-eaf8eef32273++4300</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7d5473f4-c5b5-4fd3-a06b-eaf8eef32273++4300</string>
+			<key>IDESourceControlWCCName</key>
+			<string>vip_town</string>
+		</dict>
+	</array>
+</dict>
+</plist>

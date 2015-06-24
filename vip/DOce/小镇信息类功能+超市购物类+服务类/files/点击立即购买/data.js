@@ -1,0 +1,1411 @@
+﻿$axure.loadCurrentPage({
+  "url":"点击立即购买.html",
+  "generationDate":new Date(1432258261583.92),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e720bcacbc56425199cc90f0205f2b33",
+    "type":"Axure:Page",
+    "name":"点击立即购买",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7806d9be740c457c8767c0c54ba9baa7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":109,
+              "y":40},
+            "size":{
+              "width":330,
+              "height":450}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0b814950b1654327a22eb4c974ee81d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":109,
+                  "y":40},
+                "size":{
+                  "width":330,
+                  "height":450}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/招聘_求职列表/u0.png"}},
+{
+          "id":"80694411c4bd41368e6a68acb3c53930",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC},
+            "location":{
+              "x":110,
+              "y":460},
+            "size":{
+              "width":328,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eeaebf5729ce433cab29023e63f4c9ea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC},
+                "location":{
+                  "x":110,
+                  "y":460},
+                "size":{
+                  "width":328,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u2.png"}},
+{
+          "id":"f23bb93ce0d04d52933990d365914988",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9},
+            "location":{
+              "x":110,
+              "y":40},
+            "size":{
+              "width":330,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe67650f731447c7a6cc741f9d16262b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9},
+                "location":{
+                  "x":110,
+                  "y":40},
+                "size":{
+                  "width":330,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/招聘_求职列表/u2.png"}},
+{
+          "id":"568aed510d77407997abac5fbcfabedc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":115,
+              "y":47},
+            "size":{
+              "width":9,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c149a0e087b4414a9135162c66b7b77",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":115,
+                  "y":47},
+                "size":{
+                  "width":9,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5ffbf28218804d20bf39fe8107db627b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":110,
+              "y":68},
+            "size":{
+              "width":330,
+              "height":182}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e8f77ad26db94eca849856c6c6025c46",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":110,
+                  "y":68},
+                "size":{
+                  "width":330,
+                  "height":182}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u8.png"}},
+{
+          "id":"40c04d4ae9ef4cac9c1f9c1b11975851",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":200,
+              "y":220},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"47857a311a8e47c0b4418c291f652917",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":200,
+                  "y":220},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u10.png"}},
+{
+          "id":"d78f7886da5d41388da10796b457cc10",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":230,
+              "y":220},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e0c12d9d682144379ff8b3d832b72775",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":230,
+                  "y":220},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u10.png"}},
+{
+          "id":"8abe3d760fdf478088b0aba41166c098",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":260,
+              "y":220},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7afcd817de4e457f80b194fed890863e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":260,
+                  "y":220},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u10.png"}},
+{
+          "id":"967096460f674cbea2b922c17fb30d7b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":290,
+              "y":220},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3353c34fc93a44dcbc9236dfc09545e7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":290,
+                  "y":220},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u10.png"}},
+{
+          "id":"2cc73c8432b140cf900d918dd962f280",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":320,
+              "y":220},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e0f1492fd6b844fa899760760990eeeb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":320,
+                  "y":220},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u10.png"}},
+{
+          "id":"9372e11f83c941d180b71142512d73b3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":115,
+              "y":257},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a5482ff37a81460dba69ede6e29310b8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":115,
+                  "y":257},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6681f98523f743e7a1cfba4c127f742f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":115,
+              "y":273},
+            "size":{
+              "width":313,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"76ad5128503c4d2bace12b1d4518bf80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":115,
+                  "y":273},
+                "size":{
+                  "width":313,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3a5bf9367231440e90ec75bd5836de4f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":115,
+              "y":315},
+            "size":{
+              "width":117,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"43d2251187e94aaa9cabfa0b847fdc4a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":115,
+                  "y":315},
+                "size":{
+                  "width":117,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8cd957dd12034693bda3c99501ab2c94",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":280,
+              "y":315},
+            "size":{
+              "width":95,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cbf67d4358c644a2900843830fff460b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "location":{
+                  "x":280,
+                  "y":315},
+                "size":{
+                  "width":95,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"12a3ce36a8ff4529b96e1883e3f27dc5",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":115,
+              "y":337},
+            "size":{
+              "width":313,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/产品详情页/u28_line.png"}},
+{
+          "id":"ff5168e8544f41a7b952dd3822e4d984",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC},
+            "location":{
+              "x":111,
+              "y":343},
+            "size":{
+              "width":135,
+              "height":20},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c4a1f73ba5148f19bdffdbae4c3944f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC},
+                "location":{
+                  "x":111,
+                  "y":343},
+                "size":{
+                  "width":135,
+                  "height":20},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u29.png"}},
+{
+          "id":"03ad0ab159d74f36921ad982750fdb1a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":246,
+              "y":343},
+            "size":{
+              "width":182,
+              "height":20},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7fd86a04ba8d4c368ea30f07df8a72b1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":246,
+                  "y":343},
+                "size":{
+                  "width":182,
+                  "height":20},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u31.png"}},
+{
+          "id":"f523e33f62694a9c9da2762a8b8b6c67",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":115,
+              "y":367},
+            "size":{
+              "width":305,
+              "height":87}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e3f1f78800eb4def9dfd5efc0771cea0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":115,
+                  "y":367},
+                "size":{
+                  "width":305,
+                  "height":87}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u33.png"}},
+{
+          "id":"57e11c661ea54bc4a73536e9c6260135",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":115,
+              "y":315},
+            "size":{
+              "width":117,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b0e7bf42b1be443888097693cbef6b79",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":115,
+                  "y":315},
+                "size":{
+                  "width":117,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"973bd9f0039d401a8c3d72a656644938",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":280,
+              "y":315},
+            "size":{
+              "width":95,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"affa988d71114c6f99cce3d994bb4f78",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "location":{
+                  "x":280,
+                  "y":315},
+                "size":{
+                  "width":95,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"dbc21ad9ad5a456fa6573c13b65410b5",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":115,
+              "y":337},
+            "size":{
+              "width":313,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/产品详情页/u28_line.png"}},
+{
+          "id":"0195e0e5cb86457aaf1ce9e3b1491294",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC},
+            "location":{
+              "x":111,
+              "y":343},
+            "size":{
+              "width":135,
+              "height":20},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d91398339ad84265881c344eb9ba7b16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC},
+                "location":{
+                  "x":111,
+                  "y":343},
+                "size":{
+                  "width":135,
+                  "height":20},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u29.png"}},
+{
+          "id":"2f038f7718e94a3e86431f74f8b68fc7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":246,
+              "y":343},
+            "size":{
+              "width":182,
+              "height":20},
+            "cornerRadiusTopLeft":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"850f60cf33ea445ea974c1d4ce7f656e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":246,
+                  "y":343},
+                "size":{
+                  "width":182,
+                  "height":20},
+                "cornerRadiusTopLeft":"1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u31.png"}},
+{
+          "id":"5fc1dc9ec0de48329df4e5e8d6cc2b12",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":115,
+              "y":367},
+            "size":{
+              "width":305,
+              "height":87}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6db9dfdd99014aec917b7dd155f3bc9c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":115,
+                  "y":367},
+                "size":{
+                  "width":305,
+                  "height":87}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品详情页/u33.png"}},
+{
+          "id":"7f0e248e6a5c4305bf437cc5092f1400",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7},
+            "location":{
+              "x":114,
+              "y":315},
+            "size":{
+              "width":319,
+              "height":145},
+            "borderWidth":"2",
+            "outerShadow":{
+              "on":true,
+              "offsetX":5,
+              "offsetY":5,
+              "blurRadius":5,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.349019607843137}}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b99350b072c2400a8efd2d14d748f501",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7},
+                "location":{
+                  "x":114,
+                  "y":315},
+                "size":{
+                  "width":319,
+                  "height":145},
+                "borderWidth":"2",
+                "outerShadow":{
+                  "on":true,
+                  "offsetX":5,
+                  "offsetY":5,
+                  "blurRadius":5,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.349019607843137}}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/点击加入购物车/u35.png"}},
+{
+          "id":"06ffa41bd4304d3f91ba379a4f5e8235",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":119,
+              "y":324},
+            "size":{
+              "width":40,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"59825c2aab7c4fdea3de31d56488a1d2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":119,
+                  "y":324},
+                "size":{
+                  "width":40,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0d27b0c3fe924ec39cc152e5b3f93140",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":123,
+              "y":350},
+            "size":{
+              "width":218,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"533ced791b5d4c43a8547c1b0e4d18c2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":123,
+                  "y":350},
+                "size":{
+                  "width":218,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a07fe26577764003abaf7316544b0367",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":123,
+              "y":380},
+            "size":{
+              "width":40,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7283edbeedb14cc68cc5bdb819bde464",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":123,
+                  "y":380},
+                "size":{
+                  "width":40,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bcf758b2936c43148b1273355e37e3dd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":173,
+              "y":376},
+            "size":{
+              "width":27,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"520bb568374e4232afc90dd185e60ec2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":173,
+                  "y":376},
+                "size":{
+                  "width":27,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/点击加入购物车/u45.png"}},
+{
+          "id":"c195b408eb0d40208e2a2d8cd1a082c8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":240,
+              "y":376},
+            "size":{
+              "width":27,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f6904b29aa94c119258448518077068",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":240,
+                  "y":376},
+                "size":{
+                  "width":27,
+                  "height":29}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/点击加入购物车/u45.png"}},
+{
+          "id":"c1a8010f95184ac0a6fb87aabb0b131b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"20px",
+            "location":{
+              "x":214,
+              "y":382},
+            "size":{
+              "width":12,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6fb5272022f148c18ababff6d7e8bf0f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"20px",
+                "location":{
+                  "x":214,
+                  "y":382},
+                "size":{
+                  "width":12,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"dc2ede99332440179e0020352cd9fe14",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":120,
+              "y":406},
+            "size":{
+              "width":308,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/点击加入购物车/u51_line.png"}},
+{
+          "id":"2e82d8acf04a4e719c870315f99e68f4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":208,
+              "y":425},
+            "size":{
+              "width":90,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39ec6137a3824d5c8f0a9e0952a0df24",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":208,
+                  "y":425},
+                "size":{
+                  "width":90,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/点击加入购物车/u52.png"}},
+{
+          "id":"1ef9585a34f448478309f41f8c072244",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":498,
+              "y":410},
+            "size":{
+              "width":209,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eabfcab8a3614609a149f207b8c61b46",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":498,
+                  "y":410},
+                "size":{
+                  "width":209,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c26eaaf5521c45a3a364660fe0569f48",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":498,
+              "y":444},
+            "size":{
+              "width":170,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4d8442389e424e7293ded26233aadaba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":498,
+                  "y":444},
+                "size":{
+                  "width":170,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7806d9be740c457c8767c0c54ba9baa7":{
+      "scriptId":"u0"},
+    "0b814950b1654327a22eb4c974ee81d1":{
+      "scriptId":"u1"},
+    "80694411c4bd41368e6a68acb3c53930":{
+      "scriptId":"u2"},
+    "eeaebf5729ce433cab29023e63f4c9ea":{
+      "scriptId":"u3"},
+    "f23bb93ce0d04d52933990d365914988":{
+      "scriptId":"u4"},
+    "fe67650f731447c7a6cc741f9d16262b":{
+      "scriptId":"u5"},
+    "568aed510d77407997abac5fbcfabedc":{
+      "scriptId":"u6"},
+    "0c149a0e087b4414a9135162c66b7b77":{
+      "scriptId":"u7"},
+    "5ffbf28218804d20bf39fe8107db627b":{
+      "scriptId":"u8"},
+    "e8f77ad26db94eca849856c6c6025c46":{
+      "scriptId":"u9"},
+    "40c04d4ae9ef4cac9c1f9c1b11975851":{
+      "scriptId":"u10"},
+    "47857a311a8e47c0b4418c291f652917":{
+      "scriptId":"u11"},
+    "d78f7886da5d41388da10796b457cc10":{
+      "scriptId":"u12"},
+    "e0c12d9d682144379ff8b3d832b72775":{
+      "scriptId":"u13"},
+    "8abe3d760fdf478088b0aba41166c098":{
+      "scriptId":"u14"},
+    "7afcd817de4e457f80b194fed890863e":{
+      "scriptId":"u15"},
+    "967096460f674cbea2b922c17fb30d7b":{
+      "scriptId":"u16"},
+    "3353c34fc93a44dcbc9236dfc09545e7":{
+      "scriptId":"u17"},
+    "2cc73c8432b140cf900d918dd962f280":{
+      "scriptId":"u18"},
+    "e0f1492fd6b844fa899760760990eeeb":{
+      "scriptId":"u19"},
+    "9372e11f83c941d180b71142512d73b3":{
+      "scriptId":"u20"},
+    "a5482ff37a81460dba69ede6e29310b8":{
+      "scriptId":"u21"},
+    "6681f98523f743e7a1cfba4c127f742f":{
+      "scriptId":"u22"},
+    "76ad5128503c4d2bace12b1d4518bf80":{
+      "scriptId":"u23"},
+    "3a5bf9367231440e90ec75bd5836de4f":{
+      "scriptId":"u24"},
+    "43d2251187e94aaa9cabfa0b847fdc4a":{
+      "scriptId":"u25"},
+    "8cd957dd12034693bda3c99501ab2c94":{
+      "scriptId":"u26"},
+    "cbf67d4358c644a2900843830fff460b":{
+      "scriptId":"u27"},
+    "12a3ce36a8ff4529b96e1883e3f27dc5":{
+      "scriptId":"u28"},
+    "ff5168e8544f41a7b952dd3822e4d984":{
+      "scriptId":"u29"},
+    "0c4a1f73ba5148f19bdffdbae4c3944f":{
+      "scriptId":"u30"},
+    "03ad0ab159d74f36921ad982750fdb1a":{
+      "scriptId":"u31"},
+    "7fd86a04ba8d4c368ea30f07df8a72b1":{
+      "scriptId":"u32"},
+    "f523e33f62694a9c9da2762a8b8b6c67":{
+      "scriptId":"u33"},
+    "e3f1f78800eb4def9dfd5efc0771cea0":{
+      "scriptId":"u34"},
+    "57e11c661ea54bc4a73536e9c6260135":{
+      "scriptId":"u35"},
+    "b0e7bf42b1be443888097693cbef6b79":{
+      "scriptId":"u36"},
+    "973bd9f0039d401a8c3d72a656644938":{
+      "scriptId":"u37"},
+    "affa988d71114c6f99cce3d994bb4f78":{
+      "scriptId":"u38"},
+    "dbc21ad9ad5a456fa6573c13b65410b5":{
+      "scriptId":"u39"},
+    "0195e0e5cb86457aaf1ce9e3b1491294":{
+      "scriptId":"u40"},
+    "d91398339ad84265881c344eb9ba7b16":{
+      "scriptId":"u41"},
+    "2f038f7718e94a3e86431f74f8b68fc7":{
+      "scriptId":"u42"},
+    "850f60cf33ea445ea974c1d4ce7f656e":{
+      "scriptId":"u43"},
+    "5fc1dc9ec0de48329df4e5e8d6cc2b12":{
+      "scriptId":"u44"},
+    "6db9dfdd99014aec917b7dd155f3bc9c":{
+      "scriptId":"u45"},
+    "7f0e248e6a5c4305bf437cc5092f1400":{
+      "scriptId":"u46"},
+    "b99350b072c2400a8efd2d14d748f501":{
+      "scriptId":"u47"},
+    "06ffa41bd4304d3f91ba379a4f5e8235":{
+      "scriptId":"u48"},
+    "59825c2aab7c4fdea3de31d56488a1d2":{
+      "scriptId":"u49"},
+    "0d27b0c3fe924ec39cc152e5b3f93140":{
+      "scriptId":"u50"},
+    "533ced791b5d4c43a8547c1b0e4d18c2":{
+      "scriptId":"u51"},
+    "a07fe26577764003abaf7316544b0367":{
+      "scriptId":"u52"},
+    "7283edbeedb14cc68cc5bdb819bde464":{
+      "scriptId":"u53"},
+    "bcf758b2936c43148b1273355e37e3dd":{
+      "scriptId":"u54"},
+    "520bb568374e4232afc90dd185e60ec2":{
+      "scriptId":"u55"},
+    "c195b408eb0d40208e2a2d8cd1a082c8":{
+      "scriptId":"u56"},
+    "1f6904b29aa94c119258448518077068":{
+      "scriptId":"u57"},
+    "c1a8010f95184ac0a6fb87aabb0b131b":{
+      "scriptId":"u58"},
+    "6fb5272022f148c18ababff6d7e8bf0f":{
+      "scriptId":"u59"},
+    "dc2ede99332440179e0020352cd9fe14":{
+      "scriptId":"u60"},
+    "2e82d8acf04a4e719c870315f99e68f4":{
+      "scriptId":"u61"},
+    "39ec6137a3824d5c8f0a9e0952a0df24":{
+      "scriptId":"u62"},
+    "1ef9585a34f448478309f41f8c072244":{
+      "scriptId":"u63"},
+    "eabfcab8a3614609a149f207b8c61b46":{
+      "scriptId":"u64"},
+    "c26eaaf5521c45a3a364660fe0569f48":{
+      "scriptId":"u65"},
+    "4d8442389e424e7293ded26233aadaba":{
+      "scriptId":"u66"}}});
